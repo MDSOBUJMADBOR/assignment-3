@@ -26,7 +26,7 @@ let longwords=words[0];
                     }
           }
 
-
+let result={}
 return result={longwords,token}
 
 }
